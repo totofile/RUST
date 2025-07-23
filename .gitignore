@@ -1,1 +1,23 @@
 jour1/
+.claude/
+
+# Rust
+jour2/target/
+jour2/Cargo.lock
+
+# Fichiers de test générés par le programme
+jour2/test.txt
+
+# Binaires compilés
+jour2/main
+
+# IDE et éditeurs
+jour2/.vscode/
+jour2/.idea/
+jour2/*.swp
+jour2/*.swo
+jour2/*~
+
+# Système
+jour2/.DS_Store
+jour2/Thumbs.db
